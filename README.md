@@ -24,6 +24,6 @@ pnpm start
 
 ## Настройки
 
-`API_URL` — адрес API для сервера Next.js, `NEXT_PUBLIC_API_URL` — адрес для браузера. `ROOT_ID` и `NEXT_PUBLIC_ROOT_ID` для этого сайта равны `1`. `NEXT_PUBLIC_SITE_URL` задаёт адрес сайта.
+`API_URL` — адрес API для сервера Next.js, `NEXT_PUBLIC_API_URL` — адрес для браузера. `ROOT_ID` и `NEXT_PUBLIC_ROOT_ID` для этого сайта равны `1`.
 
 В рабочей конфигурации API доступен по https://safety-api.ru. Параметры `NEXT_PUBLIC_*` включаются в браузерную сборку; после изменения нужна повторная сборка.
